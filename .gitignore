@@ -3,6 +3,8 @@
 .DS_Store
 .project
 
+/target
+
 *.class
 *.exe
 *.jar
