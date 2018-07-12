@@ -3,11 +3,11 @@
 .DS_Store
 .project
 
-/target
+target/
 
 *.class
 *.exe
 *.jar
 
 *.idea
-*.iml
+*.imla
